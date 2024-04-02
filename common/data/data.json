@@ -1,0 +1,16 @@
+{
+    "staging": {
+        "default": {
+            "orgId": 345643,
+            "teamId": 262587,
+            "projectId": 375002
+        }
+    },
+    "qa": {
+        "default": {
+            "orgId": 80,
+            "teamId": 100,
+            "projectId": 107
+        }
+    }
+}

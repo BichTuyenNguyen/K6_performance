@@ -1,0 +1,14 @@
+{
+	"staging": {
+        "owner": {
+			"username": "QEAutomationKatalon@gmail.com",
+			"password": "QEAutoK@talon123"
+		}
+	},
+	"qa": {
+		"owner": {
+			"username": "QEAutomationKatalon@gmail.com",
+			"password": "QEAutoK@talon123"
+		}
+	}
+}

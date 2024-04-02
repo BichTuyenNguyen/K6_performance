@@ -1,0 +1,90 @@
+======= flakyTestBody:{
+  "type": "TestCaseFlakinessStatistics",
+  "conditions": [
+    {
+      "key": "Project.id",
+      "operator": "=",
+      "value": 100
+    }
+  ],
+  "pagination": {
+    "page": 0,
+    "size": 30,
+    "sorts": [
+      "id,desc"
+    ]
+  }
+}
+flakyTestResponse status: 200
+======= flakyTestBody:{
+  "type": "TestCaseFlakinessStatistics",
+  "conditions": [
+    {
+      "key": "Project.id",
+      "operator": "=",
+      "value": 100
+    }
+  ],
+  "pagination": {
+    "page": 0,
+    "size": 30,
+    "sorts": [
+      "id,desc"
+    ]
+  }
+}
+flakyTestResponse status: 200
+======= flakyTestBody:{
+  "type": "TestCaseFlakinessStatistics",
+  "conditions": [
+    {
+      "key": "Project.id",
+      "operator": "=",
+      "value": 100
+    }
+  ],
+  "pagination": {
+    "page": 0,
+    "size": 30,
+    "sorts": [
+      "id,desc"
+    ]
+  }
+}
+flakyTestResponse status: 200
+======= flakyTestBody:{
+  "type": "TestCaseFlakinessStatistics",
+  "conditions": [
+    {
+      "key": "Project.id",
+      "operator": "=",
+      "value": 100
+    }
+  ],
+  "pagination": {
+    "page": 0,
+    "size": 30,
+    "sorts": [
+      "id,desc"
+    ]
+  }
+}
+flakyTestResponse status: 200
+======= flakyTestBody:{
+  "type": "TestCaseFlakinessStatistics",
+  "conditions": [
+    {
+      "key": "Project.id",
+      "operator": "=",
+      "value": 100
+    }
+  ],
+  "pagination": {
+    "page": 0,
+    "size": 30,
+    "sorts": [
+      "id,desc"
+    ]
+  }
+}
+flakyTestResponse status: 200
